@@ -1,0 +1,13 @@
+
+.header{
+	Background-color:yellow;
+}
+.left_sidebar,.Right_sidebar{
+	Background-color:red;
+}
+.footer{
+	Background-color:Pink;
+}
+.Content{
+	background-color:green;
+}
